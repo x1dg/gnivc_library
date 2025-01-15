@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Gnivc.Library.Data.Json</id>
+    <version>1.0.0</version>
+    <authors>Gnivc.Library.Data.Json</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Gnivc.Library.Data.Shared" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Gnivc.Library.Shared" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Data.Json.dll" target="lib\net8.0\Gnivc.Library.Data.Json.dll" />
+  </files>
+</package>

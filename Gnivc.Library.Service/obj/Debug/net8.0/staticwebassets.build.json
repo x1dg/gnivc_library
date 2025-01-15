@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "FwhgzhB3sW8orVa3xDqOorIgJTW2JWi0uahF+muE1as=",
+  "Source": "Gnivc.Library.Service",
+  "BasePath": "_content/Gnivc.Library.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Gnivc.Library.Service\\wwwroot",
+      "Source": "Gnivc.Library.Service",
+      "ContentRoot": "C:\\Users\\danil\\RiderProjects\\GnivcTest\\Gnivc.Library.Service\\wwwroot\\",
+      "BasePath": "_content/Gnivc.Library.Service",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\danil\\RiderProjects\\GnivcTest\\Gnivc.Library.Service\\wwwroot\\swagger-ui\\SwaggerDark.css",
+      "SourceId": "Gnivc.Library.Service",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danil\\RiderProjects\\GnivcTest\\Gnivc.Library.Service\\wwwroot\\",
+      "BasePath": "_content/Gnivc.Library.Service",
+      "RelativePath": "swagger-ui/SwaggerDark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\SwaggerDark.css"
+    }
+  ]
+}

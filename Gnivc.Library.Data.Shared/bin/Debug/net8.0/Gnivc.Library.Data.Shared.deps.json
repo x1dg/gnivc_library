@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gnivc.Library.Data.Shared/1.0.0": {
+        "dependencies": {
+          "Gnivc.Library.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Gnivc.Library.Data.Shared.dll": {}
+        }
+      },
+      "Gnivc.Library.Shared/1.0.0": {
+        "runtime": {
+          "Gnivc.Library.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gnivc.Library.Data.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gnivc.Library.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

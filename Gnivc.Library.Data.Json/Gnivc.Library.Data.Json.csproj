@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageVersion>$(VersionSuffix)</PackageVersion>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Gnivc.Test.Data</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gnivc.Library.Data.Shared\Gnivc.Library.Data.Shared.csproj" />
+    <ProjectReference Include="..\Gnivc.Library.Shared\Gnivc.Library.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

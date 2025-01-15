@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gnivc.Library.Service.props" />
+</Project>

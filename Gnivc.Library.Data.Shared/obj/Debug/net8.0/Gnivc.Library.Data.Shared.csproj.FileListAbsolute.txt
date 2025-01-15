@@ -1,0 +1,15 @@
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\bin\Debug\net8.0\Gnivc.Library.Data.Shared.deps.json
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\bin\Debug\net8.0\Gnivc.Library.Data.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\bin\Debug\net8.0\Gnivc.Library.Data.Shared.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\bin\Debug\net8.0\Gnivc.Library.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\bin\Debug\net8.0\Gnivc.Library.Shared.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.csproj.AssemblyReference.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.AssemblyInfoInputs.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.AssemblyInfo.cs
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.csproj.CoreCompileInputs.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Li.360BDD0D.Up2Date
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\refint\Gnivc.Library.Data.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\Gnivc.Library.Data.Shared.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Shared\obj\Debug\net8.0\ref\Gnivc.Library.Data.Shared.dll

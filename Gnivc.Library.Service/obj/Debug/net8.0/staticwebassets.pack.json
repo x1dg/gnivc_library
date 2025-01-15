@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\danil\\RiderProjects\\GnivcTest\\Gnivc.Library.Service\\wwwroot\\swagger-ui\\SwaggerDark.css",
+      "PackagePath": "staticwebassets\\swagger-ui\\SwaggerDark.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Gnivc.Library.Service.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Gnivc.Library.Service.props",
+      "PackagePath": "build\\Gnivc.Library.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Gnivc.Library.Service.props",
+      "PackagePath": "buildMultiTargeting\\Gnivc.Library.Service.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Gnivc.Library.Service.props",
+      "PackagePath": "buildTransitive\\Gnivc.Library.Service.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

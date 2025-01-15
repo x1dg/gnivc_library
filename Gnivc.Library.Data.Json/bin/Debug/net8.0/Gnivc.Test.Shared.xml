@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Gnivc.Test.Shared</name>
+    </assembly>
+    <members>
+        <member name="T:Gnivc.Test.BookGenre">
+            <summary>
+            Тип логирования
+            </summary>
+        </member>
+        <member name="F:Gnivc.Test.BookGenre.Calculate">
+            <summary>
+            Расчет
+            </summary>
+        </member>
+        <member name="F:Gnivc.Test.BookGenre.Order">
+            <summary>
+            Заказ
+            </summary>
+        </member>
+        <member name="T:Gnivc.Test.Helper.BookQueryExtensions">
+            <summary>
+            Методы расширения для BookQuery
+            </summary>
+        </member>
+        <member name="T:Gnivc.Test.Service.Interfaces.ILibraryService">
+            <summary>
+            Сервис библиотеки
+            </summary>
+        </member>
+        <member name="M:Gnivc.Test.Service.Interfaces.ILibraryService.AddBook(Gnivc.Test.BookQuery,System.Threading.CancellationToken)">
+            <summary>
+            Сохранить книгу
+            </summary>
+            <param name="query"></param>
+        </member>
+        <member name="M:Gnivc.Test.Service.Interfaces.ILibraryService.GetBookAsync(System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Получить книгу
+            </summary>
+            <param name="oId"></param>
+        </member>
+        <member name="M:Gnivc.Test.Service.Interfaces.ILibraryService.UpdateBookAsync(Gnivc.Test.BookUpdateQuery,System.Threading.CancellationToken)">
+            <summary>
+            Изменить книгу
+            </summary>
+            <param name="query"></param>
+        </member>
+        <member name="M:Gnivc.Test.Service.Interfaces.ILibraryService.DeleteBookAsync(System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Удалить книгу
+            </summary>
+            <param name="oId"></param>
+        </member>
+        <member name="M:Gnivc.Test.Service.Interfaces.ILibraryService.GetAllBooks(System.Threading.CancellationToken)">
+            <summary>
+            Получить все книги
+            </summary>
+        </member>
+        <member name="M:Gnivc.Test.Service.Interfaces.ILibraryService.GetBooksByTitle(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Получить все книги по совпадению заголовка
+            </summary>
+            <param name="title"></param>
+        </member>
+    </members>
+</doc>

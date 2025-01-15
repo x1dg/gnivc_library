@@ -1,0 +1,17 @@
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Data.Json.deps.json
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Data.Json.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Data.Json.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Data.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Data.Shared.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\bin\Debug\net8.0\Gnivc.Library.Shared.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.csproj.AssemblyReference.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.AssemblyInfoInputs.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.AssemblyInfo.cs
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.csproj.CoreCompileInputs.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Li.18915A36.Up2Date
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\refint\Gnivc.Library.Data.Json.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\Gnivc.Library.Data.Json.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Library.Data.Json\obj\Debug\net8.0\ref\Gnivc.Library.Data.Json.dll

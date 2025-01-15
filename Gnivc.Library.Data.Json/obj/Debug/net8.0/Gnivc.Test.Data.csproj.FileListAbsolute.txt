@@ -1,0 +1,16 @@
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\bin\Debug\net8.0\Gnivc.Test.Data.deps.json
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\bin\Debug\net8.0\Gnivc.Test.Data.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\bin\Debug\net8.0\Gnivc.Test.Data.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\bin\Debug\net8.0\Gnivc.Test.Shared.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\bin\Debug\net8.0\Gnivc.Test.Shared.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.csproj.AssemblyReference.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.AssemblyInfoInputs.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.AssemblyInfo.cs
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Te.835A61F9.Up2Date
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\refint\Gnivc.Test.Data.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\Gnivc.Test.Data.pdb
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\obj\Debug\net8.0\ref\Gnivc.Test.Data.dll
+C:\Users\danil\RiderProjects\GnivcTest\Gnivc.Test.Data\bin\Debug\net8.0\Gnivc.Test.Shared.xml
