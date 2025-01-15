@@ -63,13 +63,12 @@ namespace Gnivc.Test.Data
 		
 		public async ValueTask<bool> UpdateOrCreateBook(BookUpdateOrCreateQuery orCreateQuery, CancellationToken ct)
 		{
-			var bookToUpdate = await GetBook(orCreateQuery.oId, ct);
+			var bookToUpdate = await GetBookInternal(orCreateQuery.oId, ct);
 			var isNew = false;
 			
 			if (bookToUpdate == null)
 			{
-				bookToUpdate = new Book();
-				bookToUpdate.Id = orCreateQuery.oId;
+				bookToUpdate = new Book { Id = orCreateQuery.oId };
 				isNew = true;
 			}
 			
