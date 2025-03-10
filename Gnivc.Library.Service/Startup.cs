@@ -32,7 +32,7 @@ namespace Gnivc.Test.Service
 				.AddControllers()
 				.AddNewtonsoftJson();
 
-			services.AddTransient<ILibraryService, LibraryService>();
+			services.AddTransient<ILibraryService, LibraryService>(); //TODO Scoped
 			services.AddSingleton<ILibraryContext, LibraryContext>();
 			
 			services.AddSwaggerGen(c =>
